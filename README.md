@@ -113,7 +113,112 @@ Github name/날짜/코드.py
 | 4주차 | binary_search & dynamic_programming | [문제1](#)     | [문제2](#)| [문제 3](#)    | [문제 4](#)    | [문제 5](#)    | [문제 6](#)    | `진행 예정`  |
 | 5주차 | heap & graph               | [문제1](#)     | [문제2](#)| [문제 3](#)    | [문제 4](#)    | [문제 5](#)    | [문제 6](#)    | `진행 예정`  |
 
+### 문제 리스트
+1. 1주차
+#### greedy
+<details>
+<summary>710 - 그리디 알고리즘</summary>
 
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 0 | 동전 0 | [문제 링크](https://www.acmicpc.net/problem/11047) |
+| 1 | 회의실 배정 | [문제 링크](https://www.acmicpc.net/problem/1931) |
+| 2 | ATM | [문제 링크](https://www.acmicpc.net/problem/11399) |
+| 3 | 행렬 | [문제 링크](https://www.acmicpc.net/problem/1080) |
+| 4 | 전구와 스위치 | [문제 링크](https://www.acmicpc.net/problem/2138) |
+| 5 | 동전 뒤집기 | [문제 링크](https://www.acmicpc.net/problem/1285) |
+| 6 | 보석 도둑 | [문제 링크](https://www.acmicpc.net/problem/1202) |
+| 7 | 손익분기점 | [문제 링크](https://www.acmicpc.net/problem/1712) |
+| 8 | 가장 긴 증가하는 부분 수열 2 | [문제 링크](https://www.acmicpc.net/problem/12015) |
+
+</details>
+
+<details>
+<summary>711 - 그리디 알고리즘 (연습)</summary>
+
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 0 | 잃어버린 괄호 | [문제 링크](https://www.acmicpc.net/problem/1541) |
+| 1 | 수 묶기 | [문제 링크](https://www.acmicpc.net/problem/1744) |
+| 2 | 대회 or 인턴 | [문제 링크](https://www.acmicpc.net/problem/2875) |
+| 3 | 30 | [문제 링크](https://www.acmicpc.net/problem/10610) |
+| 4 | 번들 나이트 | [문제 링크](https://www.acmicpc.net/problem/14235) |
+| 5 | AB | [문제 링크](https://www.acmicpc.net/problem/12970) |
+| 6 | A와 B | [문제 링크](https://www.acmicpc.net/problem/12904) |
+
+</details>
+
+<details>
+<summary>712 - 그리디 알고리즘 (도전)</summary>
+
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 0 | NMK | [문제 링크](https://www.acmicpc.net/problem/16496) |
+| 1 | 클러스터 | [문제 링크](https://www.acmicpc.net/problem/1918) |
+| 2 | A와 B 2 | [문제 링크](https://www.acmicpc.net/problem/12919) |
+
+</details>
+
+#### 브루트포스
+<details>
+<summary>550 - 브루트 포스 - 문제</summary>
+
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 0 | 차량 번호판 1 | [문제 링크](https://www.acmicpc.net/problem/16968) |
+| 1 | 양념 반 후라이드 반 | [문제 링크](https://www.acmicpc.net/problem/16917) |
+| 2 | 로마 숫자 만들기 | [문제 링크](https://www.acmicpc.net/problem/16922) |
+| 3 | 십자가 찾기 | [문제 링크](https://www.acmicpc.net/problem/16924) |
+| 4 | 나3곱2 | [문제 링크](https://www.acmicpc.net/problem/16936) |
+| 5 | 두 스티커 | [문제 링크](https://www.acmicpc.net/problem/16937) |
+| 6 | 캠프 준비 | [문제 링크](https://www.acmicpc.net/problem/16938) |
+| 7 | 숫자 재배치 | [문제 링크](https://www.acmicpc.net/problem/16943) |
+| 8 | 괄호 추가하기 | [문제 링크](https://www.acmicpc.net/problem/16637) |
+| 9 | 감시 | [문제 링크](https://www.acmicpc.net/problem/15683) |
+| 10 | 등차수열 변화 | [문제 링크](https://www.acmicpc.net/problem/16678) |
+| 11 | 치킨 배달 | [문제 링크](https://www.acmicpc.net/problem/15686) |
+| 12 | 숫자판 점프 | [문제 링크](https://www.acmicpc.net/problem/2210) |
+| 13 | 테트리스 | [문제 링크](https://www.acmicpc.net/problem/3025) |
+| 14 | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | [문제 링크](https://www.acmicpc.net/problem/2422) |
+| 15 | NxM 보드 완주하기 | [문제 링크](https://www.acmicpc.net/problem/9944) |
+| 16 | 세 친구 | [문제 링크](https://www.acmicpc.net/problem/17089) |
+| 17 | 배열 돌리기 4 | [문제 링크](https://www.acmicpc.net/problem/17406) |
+
+</details>
+
+<details>
+<summary>551 - 브루트 포스 - 문제 (연습)</summary>
+
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 0 | 파이프 옮기기 1 | [문제 링크](https://www.acmicpc.net/problem/17070) |
+| 1 | 파이프 옮기기 2 | [문제 링크](https://www.acmicpc.net/problem/17069) |
+| 2 | 괄호 추가하기 2 | [문제 링크](https://www.acmicpc.net/problem/16639) |
+| 3 | 십자가 2개 놓기 | [문제 링크](https://www.acmicpc.net/problem/16925) |
+| 4 | 계란으로 계란치기 | [문제 링크](https://www.acmicpc.net/problem/16987) |
+| 5 | Baaaaaaaduk2 (Easy) | [문제 링크](https://www.acmicpc.net/problem/16988) |
+| 6 | 사다리 조작 | [문제 링크](https://www.acmicpc.net/problem/15684) |
+| 7 | 삼차원 핀볼 | [문제 링크](https://www.acmicpc.net/problem/17281) |
+| 8 | 매직 스퀘어로 변경하기 | [문제 링크](https://www.acmicpc.net/problem/16945) |
+| 9 | A → B | [문제 링크](https://www.acmicpc.net/problem/16953) |
+
+</details>
+
+<details>
+<summary>552 - 브루트 포스 - 문제 (도전)</summary>
+
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 16985 | Maaaaaaze | [문제 링크](https://www.acmicpc.net/problem/16985) |
+| 16986 | 인싸들의 가위바위보 | [문제 링크](https://www.acmicpc.net/problem/16986) |
+| 17090 | 미로 탈출하기 | [문제 링크](https://www.acmicpc.net/problem/17090) |
+| 12931 | 두 배 더하기 | [문제 링크](https://www.acmicpc.net/problem/12931) |
+| 16958 | 텔레포트 | [문제 링크](https://www.acmicpc.net/problem/16958) |
+| 12908 | 텔레포트 3 | [문제 링크](https://www.acmicpc.net/problem/12908) |
+| 16957 | 체스판 위의 공 | [문제 링크](https://www.acmicpc.net/problem/16957) |
+| 16971 | 배열 B의 값 | [문제 링크](https://www.acmicpc.net/problem/16971) |
+
+</details>
 
 
 ## 모의 코딩 테스트 
