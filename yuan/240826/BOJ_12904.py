@@ -1,3 +1,4 @@
+
 s = input()
 t = input()
 s_len = len(s)
@@ -19,5 +20,3 @@ def check(t):
 
 check(t)
 print(0)
-
-
