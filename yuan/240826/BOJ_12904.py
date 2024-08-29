@@ -1,3 +1,4 @@
+
 s = input()
 t = input()
 s_len = len(s)

@@ -11,36 +11,8 @@ dp = [[[0] * 3 for _ in range(N)] for _ in range(N)]
 # dp[0],dp[1],dp[2]가 같은 값 참조하기 때문
 # 따라서 for _ 문으로 dp[0,0,0]을 각각 생성해줘야 함
 
+# dp로 풀경우 [r][c] 에 도착하는 방법수 누적. 가로,세로,대각선 나눠서 계산해줘야함
 dp[0][1][0] = 1 # 가로
-# dp로 풀경우 [r][c] 에 도착하는 방법수 누적
-
-for r in range(N):
-    for c in range(2,N):
-        if arr[r][c] ==0:
-            if 0<=r-1<N : # 세로: 1
-                dp[r][c][1] = dp[r-1][c][1] + dp[r-1][c][2]
-
-            if 0<=r-1<N and 0<=c-1<N and arr[r][c-1]!=1 and arr[r-1][c] !=1 : # 대각선
-                dp[r][c][2] = dp[r - 1][c - 1][0] + dp[r - 1][c - 1][1] + dp[r - 1][c - 1][2]
-
-            if 0<=c-1<N : # 가로
-                dp[r][c][0] = dp[r][c - 1][0] + dp[r][c - 1][2]
-
-print(sum(dp[N-1][N-1]))import sys
-sys.setrecursionlimit(10*6)
-input = sys.stdin.readline
-
-N = int(input())
-arr = [list(map(int, input().split())) for _ in range(N)]
-
-# dp 테이블 초기화
-dp = [[[0] * 3 for _ in range(N)] for _ in range(N)]
-# dp = [[[0]*3]*N for _ in range(N)] # 이렇게 하면 dp 초기화가 제대로 안됨
-# dp[0],dp[1],dp[2]가 같은 값 참조하기 때문
-# 따라서 for _ 문으로 dp[0,0,0]을 각각 생성해줘야 함
-
-dp[0][1][0] = 1 # 가로
-# dp로 풀경우 [r][c] 에 도착하는 방법수 누적
 
 for r in range(N):
     for c in range(2,N):
@@ -57,8 +29,7 @@ for r in range(N):
 print(sum(dp[N-1][N-1]))
 
 '''
-실패코드: dp 없이 그리디로 풀경우 90% 에서 시간 초과 발생
-
+90%에서 통과못함
 import sys
 sys.setrecursionlimit(10*6)
 input = sys.stdin.readline
