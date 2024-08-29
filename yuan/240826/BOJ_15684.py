@@ -1,75 +1,62 @@
-from itertools import permutations
+'''
+시간초과 최소화하는 밭법으로
+변수 lv = 1,2,3 지정, lv마다 매번 dfs 새로 호출 시작
+가로선이 1개 -2개-3개일때 바로 check()를 호출하고 return 해버릴수 있음
+
+그렇지 않고 dfs 를 돌리면서 \
+ans = min(ans,cnt)로 업데이트 & cnt>3 return 시
+상대적으로 시간 많이 걸림
+
+'''
+
 import sys
+
 input = sys.stdin.readline
 
-def check(arr,lv):
-    check_lst = [0]*(n+1)
-    # 현재 어레이에서 1층부터 h층까지 확인
-    fisidx = 0 # 사다리 시작열 저장
-    for idx in range(1,n+1): # 각 열마다 확인
-        fisidx = idx # 시작열 업데이트
-        floor = 1 # 층
-        while floor <= h:
-            if idx >n:
-                return
-            if arr[floor][idx]: # 우측 이동 가능여부 확인
-                idx +=1 # 우측 이동
-                floor +=1 # 아래층 이동
-            elif arr[floor][idx-1]: # 좌측이동 가능여부 확인
-                idx -=1
-                floor +=1
-            else:
-                floor +=1
-        # idx 확인. fixidx 가 idx와 같으면 check_lst[idx] = 1
-        if idx == fisidx:
-            check_lst[idx] = 1
+
+def check():
+    for start in range(1, n + 1):
+        colnum = start # k는 업데이트할 열번호
+        for i in range(1, h + 1):
+            if ladder[i][colnum]:
+                colnum += 1
+            elif ladder[i][colnum - 1]:
+                colnum -= 1
+            # 둘다 아니면 colnum의 변동x, 다음층으로 이동
+        # 층 끝났을때 colnum이 처음저장한 start와 동일한지 확인
+        if colnum != start:
+            return False
+    return True
+
+
+def dfs(cnt, x, y):
+    if lv == cnt: # cnt가 1,2,3 일때의 단계에서 멈추기
+        if check():
+            print(cnt)
+            exit()
+        return
+
+    # 현재 laddar기준 매 사다리층에 넣을 수 있는 모든 가로선에 대해 넣거나or 말거나로 dfs
+    for i in range(x, h + 1): #층 확인
+        if i==x: # 현재층인x 층에서는 이전사다리번호에서 쭉 체크(가로선 중복설치 방지)
+            startcol = y
         else:
-            return # 같은 인덱스에 도착못하면 리턴때림
-    if check_lst[-1] ==1:
-        print(lv)
-        # print(check_lst)
-        exit()
+            startcol = 1 # 다음층부터는 1번부터 가로선 놓을수 있는 모든 파트 체크
+        for j in range(startcol, n): # 한층에 세열씩 확인
+            if not ladder[i][j] and not ladder[i][j - 1] and not ladder[i][j + 1]:
+                ladder[i][j] = 1 #가로선 설치
+                dfs(cnt + 1, i, j + 2) # 두열 이동해서 다시 가로선 설치가능한 x,y좌표로 이동
+                ladder[i][j] = 0 # 가로선 취소
 
-# 열, 가로선갯수, 행
+
 n, m, h = map(int, input().split())
-arr = [[0]*(n+1) for _ in range(h+1)]
+ladder = [[0] * (n + 1) for _ in range(h + 1)]
 
+for _ in range(m):
+    a, b = map(int, input().split())
+    ladder[a][b] = 1
 
-# n은 층, m은 가로선 있는 인덱스
-for i in range(m):
-    f, l = map(int,(input().split()))
-    arr[f][l] = 1
+for lv in range(4):
+    dfs(0, 1, 1)
 
-locations = []
-for x in range(1,h+1):
-    for y in range(1,n+1):
-        if arr[x][y] == 0:
-            # 앞뒤도 0 아니어야함
-            if 1<= y-1 <n+1 and arr[x][y-1] == 1:
-                continue
-            if 1<= y+1 <n+1 and arr[x][y+1] == 1:
-                continue
-            locations.append([x,y])
-
-# 로케이션에서 1~3넣어서 확인
-
-lv = 0
-check(arr,lv) # 0일떄 체크
-while True:
-    lv+=1 # lv 더해주기
-    if lv >3:
-        print(-1)
-        exit()
-    loc_lst = list(permutations(locations, lv))
-    for loc in loc_lst:
-        for lc in loc: # [x,y]
-            # 바꿀때도 앞뒤가 1이면 다음 loc로 넘어감
-            if 1<= lc[1]-1 <n+1 and arr[lc[0]][lc[1]-1] == 1:
-                break
-            if 1<= lc[1]+1 <n+1 and arr[lc[0]][lc[1]+1] == 1:
-                break
-            arr[lc[0]][lc[1]] = 1 # 좌표 바꿔주기
-        check(arr,lv)
-        for loc in loc_lst:
-            for lc in loc: # [x,y]
-                arr[lc[0]][lc[1]] = 0 # 좌표 돌려놓기
+print(-1)
