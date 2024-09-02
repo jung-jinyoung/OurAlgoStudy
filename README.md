@@ -108,14 +108,16 @@ Github name/날짜/코드.py
 | 주차  | 폴더명                | 문제 1             | 문제 2           | 문제 3         | 문제 4         | 문제 5         | 문제 6         |   
 |-------|-----------------------|-------------------|------------------|----------------|----------------|----------------|-----------------------------|
 | 1주차 | greedy & brute_force       | [A와B](https://www.acmicpc.net/problem/12904)     | [수 묶기](https://www.acmicpc.net/problem/1744)| [파이프 옮기기1](https://www.acmicpc.net/problem/17070)    | [사다리 조작](https://www.acmicpc.net/problem/15684)    | [A와 B2](https://www.acmicpc.net/problem/12919)    | [삼각형의 값](https://www.acmicpc.net/problem/4902)    | `진행중`  |
-| 2주차 | stack_queue & dfs_bfs      | [문제1]()     | [문제2](#)| [문제 3](#)    | [문제 4](#)    | [문제 5](#)    | [문제 6](#)    | `진행 예정`  |
+| 2주차 | stack_queue & dfs_bfs      | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)     | [빙산](https://www.acmicpc.net/problem/2573)| [숨바꼭질 3](https://www.acmicpc.net/problem/13549)    | [ABCDE](https://www.acmicpc.net/problem/13023)    | [숨바꼭질4](https://www.acmicpc.net/problem/13913)    | [연구소](https://www.acmicpc.net/problem/14502)    | `진행 예정`  |
 | 3주차 | hash & sort                | [문제1](#)     | [문제2](#)| [문제 3](#)    | [문제 4](#)    | [문제 5](#)    | [문제 6](#)    | `진행 예정`  |
 | 4주차 | binary_search & dynamic_programming | [문제1](#)     | [문제2](#)| [문제 3](#)    | [문제 4](#)    | [문제 5](#)    | [문제 6](#)    | `진행 예정`  |
 | 5주차 | heap & graph               | [문제1](#)     | [문제2](#)| [문제 3](#)    | [문제 4](#)    | [문제 5](#)    | [문제 6](#)    | `진행 예정`  |
 
 ### 문제 리스트
-1. 1주차
-#### greedy
+<details>
+<summary>1주차</summary>
+
+#### 📌greedy
 <details>
 <summary>710 - 그리디 알고리즘</summary>
 
@@ -133,33 +135,8 @@ Github name/날짜/코드.py
 
 </details>
 
-<details>
-<summary>711 - 그리디 알고리즘 (연습)</summary>
 
-| 문제 번호 | 문제 제목 | 링크 |
-|-----------|-----------|------|
-| 0 | 잃어버린 괄호 | [문제 링크](https://www.acmicpc.net/problem/1541) |
-| 1 | 수 묶기 | [문제 링크](https://www.acmicpc.net/problem/1744) |
-| 2 | 대회 or 인턴 | [문제 링크](https://www.acmicpc.net/problem/2875) |
-| 3 | 30 | [문제 링크](https://www.acmicpc.net/problem/10610) |
-| 4 | 번들 나이트 | [문제 링크](https://www.acmicpc.net/problem/14235) |
-| 5 | AB | [문제 링크](https://www.acmicpc.net/problem/12970) |
-| 6 | A와 B | [문제 링크](https://www.acmicpc.net/problem/12904) |
-
-</details>
-
-<details>
-<summary>712 - 그리디 알고리즘 (도전)</summary>
-
-| 문제 번호 | 문제 제목 | 링크 |
-|-----------|-----------|------|
-| 0 | NMK | [문제 링크](https://www.acmicpc.net/problem/16496) |
-| 1 | 클러스터 | [문제 링크](https://www.acmicpc.net/problem/1918) |
-| 2 | A와 B 2 | [문제 링크](https://www.acmicpc.net/problem/12919) |
-
-</details>
-
-#### 브루트포스
+#### 📌브루트포스
 <details>
 <summary>550 - 브루트 포스 - 문제</summary>
 
@@ -186,39 +163,87 @@ Github name/날짜/코드.py
 
 </details>
 
-<details>
-<summary>551 - 브루트 포스 - 문제 (연습)</summary>
-
-| 문제 번호 | 문제 제목 | 링크 |
-|-----------|-----------|------|
-| 0 | 파이프 옮기기 1 | [문제 링크](https://www.acmicpc.net/problem/17070) |
-| 1 | 파이프 옮기기 2 | [문제 링크](https://www.acmicpc.net/problem/17069) |
-| 2 | 괄호 추가하기 2 | [문제 링크](https://www.acmicpc.net/problem/16639) |
-| 3 | 십자가 2개 놓기 | [문제 링크](https://www.acmicpc.net/problem/16925) |
-| 4 | 계란으로 계란치기 | [문제 링크](https://www.acmicpc.net/problem/16987) |
-| 5 | Baaaaaaaduk2 (Easy) | [문제 링크](https://www.acmicpc.net/problem/16988) |
-| 6 | 사다리 조작 | [문제 링크](https://www.acmicpc.net/problem/15684) |
-| 7 | 삼차원 핀볼 | [문제 링크](https://www.acmicpc.net/problem/17281) |
-| 8 | 매직 스퀘어로 변경하기 | [문제 링크](https://www.acmicpc.net/problem/16945) |
-| 9 | A → B | [문제 링크](https://www.acmicpc.net/problem/16953) |
-
 </details>
 
 <details>
-<summary>552 - 브루트 포스 - 문제 (도전)</summary>
+  
+<summary>2주차</summary>
 
-| 문제 번호 | 문제 제목 | 링크 |
+####  📌스택
+<details>
+  <summary>스택 </summary>
+  | 문제 번호 | 문제 제목 | 링크 |
 |-----------|-----------|------|
-| 16985 | Maaaaaaze | [문제 링크](https://www.acmicpc.net/problem/16985) |
-| 16986 | 인싸들의 가위바위보 | [문제 링크](https://www.acmicpc.net/problem/16986) |
-| 17090 | 미로 탈출하기 | [문제 링크](https://www.acmicpc.net/problem/17090) |
-| 12931 | 두 배 더하기 | [문제 링크](https://www.acmicpc.net/problem/12931) |
-| 16958 | 텔레포트 | [문제 링크](https://www.acmicpc.net/problem/16958) |
-| 12908 | 텔레포트 3 | [문제 링크](https://www.acmicpc.net/problem/12908) |
-| 16957 | 체스판 위의 공 | [문제 링크](https://www.acmicpc.net/problem/16957) |
-| 16971 | 배열 B의 값 | [문제 링크](https://www.acmicpc.net/problem/16971) |
+| 10828 | 스택 | [문제 링크](https://www.acmicpc.net/problem/10828) |
+| 10773 | 제로 | [문제 링크](https://www.acmicpc.net/problem/10773) |
+| 1874 | 스택 수열 | [문제 링크](https://www.acmicpc.net/problem/1874) |
+| 2493 | 탑 | [문제 링크](https://www.acmicpc.net/problem/2493) |
+| 6198 | 옥상 정원 꾸미기 | [문제 링크](https://www.acmicpc.net/problem/6198) |
+| 17298 | 오큰수 | [문제 링크](https://www.acmicpc.net/problem/17298) |
+| 3015 | 오아시스 재결합 | [문제 링크](https://www.acmicpc.net/problem/3015) |
+| 6549 | 히스토그램에서 가장 큰 직사각형 | [문제 링크](https://www.acmicpc.net/problem/6549) |
+
+
 
 </details>
+
+####  📌DFS와 BFS
+<details>
+  <summary>DFS와 BFS 기초 부터 필수 문제 </summary>
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 1260 | DFS와 BFS | [문제 링크](https://www.acmicpc.net/problem/1260) |
+| 2178 | 미로 탐색 | [문제 링크](https://www.acmicpc.net/problem/2178) |
+| 2606 | 바이러스 | [문제 링크](https://www.acmicpc.net/problem/2606) |
+| 2667 | 단지번호붙이기 | [문제 링크](https://www.acmicpc.net/problem/2667) |
+| 2644 | 촌수계산 | [문제 링크](https://www.acmicpc.net/problem/2644) |
+| 7569 | 토마토 | [문제 링크](https://www.acmicpc.net/problem/7569) |
+| 1697 | 숨바꼭질 | [문제 링크](https://www.acmicpc.net/problem/1697) |
+| 5014 | 스타트링크 | [문제 링크](https://www.acmicpc.net/problem/5014) |
+| 2468 | 안전 영역 | [문제 링크](https://www.acmicpc.net/problem/2468) |
+| 2573 | 빙산 | [문제 링크](https://www.acmicpc.net/problem/2573) |
+| 9205 | 맥주 마시면서 걸어가기 | [문제 링크](https://www.acmicpc.net/problem/9205) |
+| 14503 | 로봇 청소기 | [문제 링크](https://www.acmicpc.net/problem/14503) |
+
+
+</details>
+
+####  📌큐와 그래프
+<details>
+  <summary>코딩 테스트 준비 - 기초 : 큐와 그래프 </summary>
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 10845 | 큐 | [문제 링크](https://www.acmicpc.net/problem/10845) |
+| 10866 | 덱 | [문제 링크](https://www.acmicpc.net/problem/10866) |
+| 13023 | ABCDE | [문제 링크](https://www.acmicpc.net/problem/13023) |
+| 1260 | DFS와 BFS | [문제 링크](https://www.acmicpc.net/problem/1260) |
+| 11724 | 연결 요소의 개수 | [문제 링크](https://www.acmicpc.net/problem/11724) |
+| 1707 | 이분 그래프 | [문제 링크](https://www.acmicpc.net/problem/1707) |
+| 2667 | 단지번호붙이기 | [문제 링크](https://www.acmicpc.net/problem/2667) |
+| 2178 | 미로 탐색 | [문제 링크](https://www.acmicpc.net/problem/2178) |
+| 7576 | 토마토 | [문제 링크](https://www.acmicpc.net/problem/7576) |
+| 7562 | 나이트의 이동 | [문제 링크](https://www.acmicpc.net/problem/7562) |
+
+</details>
+
+
+
+#### 📌BFS 알고리즘 
+<details>
+<summary>코딩 테스트 준비 - 기초 : BFS </summary>
+  
+| 문제 번호 | 문제 제목 | 링크 |
+|-----------|-----------|------|
+| 1697 | 숨바꼭질 | [문제 링크](https://www.acmicpc.net/problem/1697) |
+| 13913 | 숨바꼭질 4 | [문제 링크](https://www.acmicpc.net/problem/13913) |
+| 14226 | 이모티콘 | [문제 링크](https://www.acmicpc.net/problem/14226) |
+| 13549 | 숨바꼭질 3 | [문제 링크](https://www.acmicpc.net/problem/13549) |
+| 1261 | 알고스팟 | [문제 링크](https://www.acmicpc.net/problem/1261) |
+</details>
+
+
+</details>
+
 
 
 ## 모의 코딩 테스트 
