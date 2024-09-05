@@ -118,6 +118,8 @@ Github name/날짜/코드.py
 <summary>1주차</summary>
 
 #### 📌greedy
+
+
 <details>
 <summary>710 - 그리디 알고리즘</summary>
 
@@ -137,7 +139,9 @@ Github name/날짜/코드.py
 
 
 #### 📌브루트포스
+
 <details>
+  
 <summary>550 - 브루트 포스 - 문제</summary>
 
 | 문제 번호 | 문제 제목 | 링크 |
@@ -170,9 +174,11 @@ Github name/날짜/코드.py
 <summary>2주차</summary>
 
 ####  📌스택
+
 <details>
   <summary>스택 </summary>
-  | 문제 번호 | 문제 제목 | 링크 |
+  
+| 문제 번호 | 문제 제목 | 링크 |
 |-----------|-----------|------|
 | 10828 | 스택 | [문제 링크](https://www.acmicpc.net/problem/10828) |
 | 10773 | 제로 | [문제 링크](https://www.acmicpc.net/problem/10773) |
@@ -188,8 +194,10 @@ Github name/날짜/코드.py
 </details>
 
 ####  📌DFS와 BFS
+
 <details>
   <summary>DFS와 BFS 기초 부터 필수 문제 </summary>
+  
 | 문제 번호 | 문제 제목 | 링크 |
 |-----------|-----------|------|
 | 1260 | DFS와 BFS | [문제 링크](https://www.acmicpc.net/problem/1260) |
@@ -211,6 +219,7 @@ Github name/날짜/코드.py
 ####  📌큐와 그래프
 <details>
   <summary>코딩 테스트 준비 - 기초 : 큐와 그래프 </summary>
+  
 | 문제 번호 | 문제 제목 | 링크 |
 |-----------|-----------|------|
 | 10845 | 큐 | [문제 링크](https://www.acmicpc.net/problem/10845) |
