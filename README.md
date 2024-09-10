@@ -260,7 +260,7 @@ Github name/날짜/코드.py
 | 주차  | 폴더명                | 문제 1             | 문제 2           |
 |-------|----------------------|--------------------|-----------------|
 | 1주차 | Programmers           | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)         | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)      |  
-| 2주차 | -             | [문제1](#)         | [문제2](#)      |  
+| 2주차 | Programmers           | [석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)         | [블록이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)      |  
 | 3주차 | -            | [문제1](#)         | [문제2](#)      |  
 | 4주차 | -            | [문제1](#)         | [문제2](#)      |  
 | 5주차 | -            | [문제1](#)         | [문제2](#)      |  
