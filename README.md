@@ -132,7 +132,7 @@ Github name/날짜/코드.py
 |-------|----------------------|--------------------|-----------------|
 | 1주차 | Programmers           | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)         | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)      |  
 | 2주차 | Programmers           | [석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)         | [블록이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)      |  
-| 3주차 | -            | [문제1](#)         | [문제2](#)      |  
+| 3주차 | Programmers            | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)      |  
 | 4주차 | -            | [문제1](#)         | [문제2](#)      |  
 | 5주차 | -            | [문제1](#)         | [문제2](#)      |  
 | 6주차 | -            | [문제1](#)         | [문제2](#)      |  
