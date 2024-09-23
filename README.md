@@ -111,7 +111,7 @@ Github name/날짜/코드.py
 | 2주차 | stack_queue & dfs_bfs      | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)     | [빙산](https://www.acmicpc.net/problem/2573)| [숨바꼭질 3](https://www.acmicpc.net/problem/13549)    | [ABCDE](https://www.acmicpc.net/problem/13023)    | [숨바꼭질4](https://www.acmicpc.net/problem/13913)    | [연구소](https://www.acmicpc.net/problem/14502)    |  ✅`  |
 | 3주차 | hash & sort                | [선수과목](https://www.acmicpc.net/problem/14567)     | [스네이크버드](https://www.acmicpc.net/problem/16435)| [카드 놓기](https://www.acmicpc.net/problem/5568)    | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)    | -   |  -  |  ✅ |
 | 4주차 | binary_search & dynamic_programming | [팰린드롬?](https://www.acmicpc.net/problem/10942)     | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)| [연속합 2](https://www.acmicpc.net/problem/13398)    | [공유기 설치](https://www.acmicpc.net/problem/2110)    | [세 수의 합](https://www.acmicpc.net/problem/2295)    | [나무 자르기](https://www.acmicpc.net/problem/2805)    | ✅ |
-| 5주차 | heap & graph               | [문제1](#)     | [문제2](#)| [문제 3](#)    | [문제 4](#)    | [문제 5](#)    | [문제 6](#)    | ⬜  |
+| 5주차 | heap & graph               | [Two Dots](https://www.acmicpc.net/problem/16929)     | [최단경로](https://www.acmicpc.net/problem/1753)| [최소비용 구하기](https://www.acmicpc.net/problem/1916)    | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)    | [카드 정렬하기](https://www.acmicpc.net/problem/1715)    | [절댓값 힙]([#](https://www.acmicpc.net/problem/11286))    | ✅  |
 
 ### 문제 리스트
 
@@ -123,6 +123,7 @@ Github name/날짜/코드.py
 
 #### [🔹 4주차 문제 리스트](https://github.com/jung-jinyoung/OurAlgoStudy/wiki/4%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C%EC%A7%91)
 
+#### [🔹 5주차 문제 리스트](https://github.com/jung-jinyoung/OurAlgoStudy/wiki/5%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C%EC%A7%91)
 
 
 
