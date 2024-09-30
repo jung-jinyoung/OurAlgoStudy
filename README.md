@@ -136,7 +136,7 @@ Github name/날짜/코드.py
 | 2주차 | Programmers           | [석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)         | [블록이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)      |  
 | 3주차 | Programmers            | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)      |  
 | 4주차 | Programmers            | [순위 검색(2021년 카카오 기출)](https://school.programmers.co.kr/learn/courses/30/lessons/72412)         | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      |  
-| 5주차 | -            | [문제1](#)         | [문제2](#)      |  
+| 5주차 | Programers            | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)         | [도넛과 막대 그래프(2024카카오기출)](https://school.programmers.co.kr/learn/courses/30/lessons/258711)      |  
 | 6주차 | -            | [문제1](#)         | [문제2](#)      |  
 | 7주차 | -            | [문제1](#)         | [문제2](#)      |  
 | 8주차 | -            | [문제1](#)         | [문제2](#)      |  
