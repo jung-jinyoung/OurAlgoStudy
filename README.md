@@ -125,8 +125,17 @@ Github name/날짜/코드.py
 
 #### [🔹 5주차 문제 리스트](https://github.com/jung-jinyoung/OurAlgoStudy/wiki/5%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C%EC%A7%91)
 
+<br>
+<hr>
 
 
+## 2차 : 기업 코딩테스트 기출 
+
+| 주차  | 폴더명                | 문제 1             | 문제 2           |
+|-------|--------------|-------------------|------------------|
+|코드트리|삼성 SW 역량테스트 2024 하반기|[미지의 공간 탈출](https://www.codetree.ai/training-field/frequent-problems/problems/escape-unknown-space/description?page=1&pageSize=5)|[메두사와 전사들](https://www.codetree.ai/training-field/frequent-problems/problems/medusa-and-warriors/description?page=1&pageSize=5)|
+
+<br>
 
 ## 모의 코딩 테스트 
 
