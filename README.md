@@ -148,7 +148,7 @@ Github name/날짜/코드.py
 | 5주차 | Programers            | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)         | [도넛과 막대 그래프(2024카카오기출)](https://school.programmers.co.kr/learn/courses/30/lessons/258711)      |  
 | 6주차 | Programers            | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)         | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)      |  
 | 7주차 | Programers            | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)         | [주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)      |  
-| 8주차 | -            | [문제1](#)         | [문제2](#)      |  
+| 8주차 | -            | [숫자 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |  
 | 9주차 | -            | [문제1](#)         | [문제2](#)      |  
 | 10주차 | -            | [문제1](#)         | [문제2](#)      |  
 
