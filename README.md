@@ -98,10 +98,20 @@ Github name/날짜/코드.py
   - `jinyoung/240822/BOJ_1234.py`  
   - `yuan/240822/BOJ_1234.py`  
 
+<hr>
+
+### 🚩 마지막 알고리즘 버닝 event !
+
+[알고리즘 버닝 event 공지](https://github.com/jung-jinyoung/OurAlgoStudy/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%AC%ED%99%9C-%EC%9A%B4%EB%8F%99)
+
+| 주차   | 문제 1             | 문제 2           | 문제 3         
+|-------|-------------------|------------------|----------------|
+| 1주차 | [봄버맨](https://www.acmicpc.net/problem/16918)|[여행가자](https://www.acmicpc.net/problem/1976)|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|
 
 <hr>
 
-### 📆 일정표 
+
+### 📆 일정표 (2024.08~2024.11)
 
 ## 1차 : 코딩테스트 고득점 Kit
 
