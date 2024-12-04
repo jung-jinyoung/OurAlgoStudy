@@ -98,10 +98,32 @@ Github name/날짜/코드.py
   - `jinyoung/240822/BOJ_1234.py`  
   - `yuan/240822/BOJ_1234.py`  
 
+<hr>
+
+### 🚩 마지막 알고리즘 버닝 event !
+
+[알고리즘 버닝 event 공지](https://github.com/jung-jinyoung/OurAlgoStudy/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%AC%ED%99%9C-%EC%9A%B4%EB%8F%99)
+
+### 과제 (24.11.22~)
+
+| 주차   | 문제 1             | 문제 2           | 문제 3          |
+|-------|-------------------|------------------|----------------|
+| 1주차 | [봄버맨](https://www.acmicpc.net/problem/16918)|[여행가자](https://www.acmicpc.net/problem/1976)|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|
+| 1주차 | [단축키지정](https://www.acmicpc.net/problem/1283)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[볼모으기](https://www.acmicpc.net/problem/17615)|
 
 <hr>
 
-### 📆 일정표 
+### 모의 코딩 테스트 (24.11.22~)
+| 주차  | 폴더명                | 문제 1             | 문제 2           |
+|-------|----------------------|--------------------|-----------------|
+| 1주차 | Baekjoon |[숨바꼭질](https://www.acmicpc.net/problem/1697) | [지름길](https://www.acmicpc.net/problem/1446)  |
+| 1주차 | Baekjoon |[겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  |
+
+<br>
+<br>
+<br>
+
+### 📆 일정표 (2024.08~2024.11)
 
 ## 1차 : 코딩테스트 고득점 Kit
 
@@ -148,9 +170,8 @@ Github name/날짜/코드.py
 | 5주차 | Programers            | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)         | [도넛과 막대 그래프(2024카카오기출)](https://school.programmers.co.kr/learn/courses/30/lessons/258711)      |  
 | 6주차 | Programers            | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)         | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)      |  
 | 7주차 | Programers            | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)         | [주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)      |  
-| 8주차 | -            | [숫자 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |  
-| 9주차 | -            | [문제1](#)         | [문제2](#)      |  
-| 10주차 | -            | [문제1](#)         | [문제2](#)      |  
+| 8주차 | Programers            | [숫자 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |  
+| 9주차 | Programers            | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)         | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)      |  
 
 <hr>
 
