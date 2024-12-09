@@ -98,10 +98,34 @@ Github name/날짜/코드.py
   - `jinyoung/240822/BOJ_1234.py`  
   - `yuan/240822/BOJ_1234.py`  
 
+<hr>
+
+### 🚩 마지막 알고리즘 버닝 event !
+
+[알고리즘 버닝 event 공지](https://github.com/jung-jinyoung/OurAlgoStudy/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%AC%ED%99%9C-%EC%9A%B4%EB%8F%99)
+
+### 과제 (24.11.22~)
+
+| 주차   | 문제 1             | 문제 2           | 문제 3          |
+|-------|-------------------|------------------|----------------|
+| 1주차 | [봄버맨](https://www.acmicpc.net/problem/16918)|[여행가자](https://www.acmicpc.net/problem/1976)|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|
+| 2주차 | [단축키지정](https://www.acmicpc.net/problem/1283)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[볼모으기](https://www.acmicpc.net/problem/17615)|
+| 3주차 | [회전초밥](https://www.acmicpc.net/problem/2531)|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|
 
 <hr>
 
-### 📆 일정표 
+### 모의 코딩 테스트 (24.11.22~)
+| 주차  | 폴더명                | 문제 1             | 문제 2           |
+|-------|----------------------|--------------------|-----------------|
+| 1주차 | Baekjoon |[숨바꼭질](https://www.acmicpc.net/problem/1697) | [지름길](https://www.acmicpc.net/problem/1446)  |
+| 2주차 | Baekjoon |[겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  |
+| 3주차 | Baekjoon |[트럭](https://www.acmicpc.net/problem/13335) | [컴백홈](https://www.acmicpc.net/problem/1189)  |
+
+<br>
+<br>
+<br>
+
+### 📆 일정표 (2024.08~2024.11)
 
 ## 1차 : 코딩테스트 고득점 Kit
 
@@ -125,8 +149,17 @@ Github name/날짜/코드.py
 
 #### [🔹 5주차 문제 리스트](https://github.com/jung-jinyoung/OurAlgoStudy/wiki/5%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C%EC%A7%91)
 
+<br>
+<hr>
 
 
+## 2차 : 기업 코딩테스트 기출 
+
+| 주차  | 폴더명                | 문제 1             | 문제 2           |
+|-------|--------------|-------------------|------------------|
+|코드트리|삼성 SW 역량테스트 2024 하반기|[미지의 공간 탈출](https://www.codetree.ai/training-field/frequent-problems/problems/escape-unknown-space/description?page=1&pageSize=5)|[메두사와 전사들](https://www.codetree.ai/training-field/frequent-problems/problems/medusa-and-warriors/description?page=1&pageSize=5)|
+
+<br>
 
 ## 모의 코딩 테스트 
 
@@ -136,12 +169,11 @@ Github name/날짜/코드.py
 | 2주차 | Programmers           | [석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)         | [블록이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)      |  
 | 3주차 | Programmers            | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)      |  
 | 4주차 | Programmers            | [순위 검색(2021년 카카오 기출)](https://school.programmers.co.kr/learn/courses/30/lessons/72412)         | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      |  
-| 5주차 | -            | [문제1](#)         | [문제2](#)      |  
-| 6주차 | -            | [문제1](#)         | [문제2](#)      |  
-| 7주차 | -            | [문제1](#)         | [문제2](#)      |  
-| 8주차 | -            | [문제1](#)         | [문제2](#)      |  
-| 9주차 | -            | [문제1](#)         | [문제2](#)      |  
-| 10주차 | -            | [문제1](#)         | [문제2](#)      |  
+| 5주차 | Programers            | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)         | [도넛과 막대 그래프(2024카카오기출)](https://school.programmers.co.kr/learn/courses/30/lessons/258711)      |  
+| 6주차 | Programers            | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)         | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)      |  
+| 7주차 | Programers            | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)         | [주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)      |  
+| 8주차 | Programers            | [숫자 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |  
+| 9주차 | Programers            | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)         | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)      |  
 
 <hr>
 
