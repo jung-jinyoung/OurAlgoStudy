@@ -109,7 +109,8 @@ Github name/날짜/코드.py
 | 주차   | 문제 1             | 문제 2           | 문제 3          |
 |-------|-------------------|------------------|----------------|
 | 1주차 | [봄버맨](https://www.acmicpc.net/problem/16918)|[여행가자](https://www.acmicpc.net/problem/1976)|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|
-| 1주차 | [단축키지정](https://www.acmicpc.net/problem/1283)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[볼모으기](https://www.acmicpc.net/problem/17615)|
+| 2주차 | [단축키지정](https://www.acmicpc.net/problem/1283)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[볼모으기](https://www.acmicpc.net/problem/17615)|
+| 3주차 | [회전초밥](https://www.acmicpc.net/problem/2531)|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|
 
 <hr>
 
@@ -117,7 +118,8 @@ Github name/날짜/코드.py
 | 주차  | 폴더명                | 문제 1             | 문제 2           |
 |-------|----------------------|--------------------|-----------------|
 | 1주차 | Baekjoon |[숨바꼭질](https://www.acmicpc.net/problem/1697) | [지름길](https://www.acmicpc.net/problem/1446)  |
-| 1주차 | Baekjoon |[겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  |
+| 2주차 | Baekjoon |[겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  |
+| 3주차 | Baekjoon |[트럭](https://www.acmicpc.net/problem/13335) | [컴백홈](https://www.acmicpc.net/problem/1189)  |
 
 <br>
 <br>
