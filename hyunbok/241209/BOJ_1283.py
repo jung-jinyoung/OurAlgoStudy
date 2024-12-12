@@ -1,4 +1,5 @@
 from collections import defaultdict
+
 check = defaultdict(int)
 N = int(input())
 for _ in range(N):
