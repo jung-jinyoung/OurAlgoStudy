@@ -20,7 +20,6 @@ for gender,num in arr:
                 r+=1
             else:
                 break
-
 idx = 0
 while idx+20<switch:
     print(*state[idx:idx+20])
