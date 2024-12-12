@@ -14,7 +14,6 @@ arr = [list(map(int,input().split())) for _ in range(N)]    # N개 도시의 연
 todo = list(map(int,input().split()))                       # M개의 여행 계획
 
 p = [i for i in range(N)]
-
 for i in range(N):
     for j in range(i,N):
         if arr[i][j]:
