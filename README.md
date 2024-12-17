@@ -121,7 +121,7 @@ Github name/날짜/코드.py
 | 1주차 | Baekjoon |[숨바꼭질](https://www.acmicpc.net/problem/1697) | [지름길](https://www.acmicpc.net/problem/1446)  |
 | 2주차 | Baekjoon |[겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  |
 | 3주차 | Baekjoon |[트럭](https://www.acmicpc.net/problem/13335) | [컴백홈](https://www.acmicpc.net/problem/1189)  |
-| 4주차 | Baekjoon |[지름길](https://www.acmicpc.net/problem/1446) | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)  |
+| 4주차 | Baekjoon |[창고 다각형](https://www.acmicpc.net/problem/2304) | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)  |
 
 
 <br>
