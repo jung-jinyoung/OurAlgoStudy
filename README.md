@@ -112,7 +112,7 @@ Github name/날짜/코드.py
 | 2주차 | [단축키지정](https://www.acmicpc.net/problem/1283)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[볼모으기](https://www.acmicpc.net/problem/17615)|
 | 3주차 | [회전초밥](https://www.acmicpc.net/problem/2531)|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|
 | 4주차 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[빗물](https://www.acmicpc.net/problem/14719)|[택배 배송](https://www.acmicpc.net/problem/20437)|
-| 5주차 | Baekjoon |[봄버맨](https://www.acmicpc.net/problem/16918) | [용액](https://www.acmicpc.net/problem/2467)  | [비슷한 단어](https://www.acmicpc.net/problem/2607)  |
+| 5주차 |[봄버맨](https://www.acmicpc.net/problem/16918) | [용액](https://www.acmicpc.net/problem/2467)  | [비슷한 단어](https://www.acmicpc.net/problem/2607)  |
 
 <hr>
 
