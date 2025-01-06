@@ -124,6 +124,7 @@ Github name/날짜/코드.py
 | 3주차 | Baekjoon |[트럭](https://www.acmicpc.net/problem/13335) | [컴백홈](https://www.acmicpc.net/problem/1189)  |
 | 4주차 | Baekjoon |[창고 다각형](https://www.acmicpc.net/problem/2304) | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)  |
 | 5주차 | Baekjoon |[볼 모으기](https://www.acmicpc.net/problem/17615) | [에디터](https://www.acmicpc.net/problem/1406)  |
+| 6주차 | 구름 |[발전기](https://level.goorm.io/exam/195694/%EB%B0%9C%EC%A0%84%EA%B8%B0/quiz/1) | [구름이의 여행](https://level.goorm.io/exam/159546/%EA%B5%AC%EB%A6%84%EC%9D%B4%EC%9D%98-%EC%97%AC%ED%96%89/quiz/1)  |
 
 
 
