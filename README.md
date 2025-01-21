@@ -114,7 +114,7 @@ Github name/날짜/코드.py
 | 4주차 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[빗물](https://www.acmicpc.net/problem/14719)|[택배 배송](https://www.acmicpc.net/problem/20437)|
 | 5주차 |[봄버맨](https://www.acmicpc.net/problem/16918) | [용액](https://www.acmicpc.net/problem/2467)  | [비슷한 단어](https://www.acmicpc.net/problem/2607)  |
 | 7주차 |[빌런 호석](https://www.acmicpc.net/problem/22251) | [0 만들기](https://www.acmicpc.net/problem/7490)  | [틱택토](https://www.acmicpc.net/problem/7682)  |
-| 7주차 |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
+| 8주차 |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
 
 <hr>
 
