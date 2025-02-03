@@ -132,6 +132,7 @@ Github name/날짜/코드.py
 | 7주차 | 프로그래머스 |[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | [수식복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)  |
 | 8주차 | 휴무 | - | - |
 | 9주차 | 프로그래머스 | [미로 탈출 명렁어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | - |
+| 8주차 | 프로그래머스 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |
 
 
 
