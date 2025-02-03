@@ -114,6 +114,9 @@ Github name/날짜/코드.py
 | 4주차 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[빗물](https://www.acmicpc.net/problem/14719)|[택배 배송](https://www.acmicpc.net/problem/20437)|
 | 5주차 |[봄버맨](https://www.acmicpc.net/problem/16918) | [용액](https://www.acmicpc.net/problem/2467)  | [비슷한 단어](https://www.acmicpc.net/problem/2607)  |
 | 7주차 |[빌런 호석](https://www.acmicpc.net/problem/22251) | [0 만들기](https://www.acmicpc.net/problem/7490)  | [틱택토](https://www.acmicpc.net/problem/7682)  |
+| 8주차 |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
+| 9주차 |[퇴사](https://www.acmicpc.net/problem/15486) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  | [암호 만들기](https://www.acmicpc.net/problem/1759)  |
+
 
 <hr>
 
@@ -127,6 +130,8 @@ Github name/날짜/코드.py
 | 5주차 | Baekjoon |[볼 모으기](https://www.acmicpc.net/problem/17615) | [에디터](https://www.acmicpc.net/problem/1406)  |
 | 6주차 | 구름 |[발전기](https://level.goorm.io/exam/195694/%EB%B0%9C%EC%A0%84%EA%B8%B0/quiz/1) | [구름이의 여행](https://level.goorm.io/exam/159546/%EA%B5%AC%EB%A6%84%EC%9D%B4%EC%9D%98-%EC%97%AC%ED%96%89/quiz/1)  |
 | 7주차 | 프로그래머스 |[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | [수식복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)  |
+| 8주차 | 휴무 | - | - |
+| 9주차 | 프로그래머스 | [미로 탈출 명렁어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | - |
 
 
 
