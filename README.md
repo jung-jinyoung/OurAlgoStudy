@@ -117,7 +117,7 @@ Github name/날짜/코드.py
 | 8주차 |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
 | 9주차 |[퇴사](https://www.acmicpc.net/problem/15486) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  | [암호 만들기](https://www.acmicpc.net/problem/1759)  |
 | 10주차 |[부분합](https://www.acmicpc.net/problem/1806) | [사탕 게임](https://www.acmicpc.net/problem/3085)  | [LCS](https://www.acmicpc.net/problem/9251)  |
-| 11주차 |[안전 영역](https://www.acmicpc.net/problem/2468) | [토마토](https://www.acmicpc.net/problem/7569)  | [불](https://www.acmicpc.net/problem/5247)  |
+| 11주차 |[안전 영역](https://www.acmicpc.net/problem/2468) | [토마토](https://www.acmicpc.net/problem/7569)  | [불](https://www.acmicpc.net/problem/5427)  |
 
 
 
