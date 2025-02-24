@@ -121,7 +121,6 @@ Github name/날짜/코드.py
 
 
 
-역
 <hr>
 
 ### 모의 코딩 테스트 (24.11.22~)
@@ -138,6 +137,7 @@ Github name/날짜/코드.py
 | 9주차 | 프로그래머스 | [미로 탈출 명렁어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | - |
 | 10주차 | 프로그래머스 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |
 | 11주차 | 프로그래머스 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+| 12주차 | 프로그래머스 |[택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) | [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) |
 
 
 
