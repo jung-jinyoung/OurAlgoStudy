@@ -120,6 +120,7 @@ Github name/날짜/코드.py
 | 11주차 |[안전 영역](https://www.acmicpc.net/problem/2468) | [토마토](https://www.acmicpc.net/problem/7569)  | [불](https://www.acmicpc.net/problem/5427)  |
 | 12주차 | - | - | - |
 | 13주차 |[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
+| 14주차 | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) |
 
 
 <hr>
@@ -140,7 +141,7 @@ Github name/날짜/코드.py
 | 11주차 | 프로그래머스 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
 | 12주차 | 프로그래머스 |[택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) | [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) |
 | 13주차 | 프로그래머스 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)
-
+| 14주차 | 프로그래머스 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |
 
 <br>
 <br>
